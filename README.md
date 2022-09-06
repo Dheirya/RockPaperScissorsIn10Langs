@@ -6,7 +6,7 @@ The classic "rock, paper, scissors- shoot!" game, implemented in 10 programming 
 | Python | [README](https://github.com/Dheirya/RockPaperScissorsIn10Langs/tree/main/python) | ```python index.py```
 | JavaScript | [README](https://github.com/Dheirya/RockPaperScissorsIn10Langs/tree/main/javascript/) | ```node index.js```
 | Java | [README](https://github.com/Dheirya/RockPaperScissorsIn10Langs/tree/main/java/) | ```java index.java```
-| C | [README](https://github.com/Dheirya/RockPaperScissorsIn10Langs/tree/main/c/) | ```gcc index.c``` |
+| C | [README](https://github.com/Dheirya/RockPaperScissorsIn10Langs/tree/main/c/) | ```clang index.c``` |
 | Bash | [README](https://github.com/Dheirya/RockPaperScissorsIn10Langs/tree/main/bash/) | ```./index.sh``` |
 | Ruby | [README](https://github.com/Dheirya/RockPaperScissorsIn10Langs/tree/main/ruby/) | ```ruby index.rb``` |
 | Perl | [README](https://github.com/Dheirya/RockPaperScissorsIn10Langs/tree/main/perl/) | ```perl index.pl``` |
