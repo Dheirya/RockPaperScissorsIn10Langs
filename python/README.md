@@ -8,4 +8,4 @@ $ cd python
 $ python index.py
 ```
 ## Bugs/Suggestions
-Please leave a [issue](https://github.com/Dheirya/RockPaperScissorsIn10Langs/issues) or a [PR](https://github.com/Dheirya/RockPaperScissorsIn10Langs/pulls) if you think you can fix it!
+Please leave an [issue](https://github.com/Dheirya/RockPaperScissorsIn10Langs/issues) or a [PR](https://github.com/Dheirya/RockPaperScissorsIn10Langs/pulls) if you think you can fix it!
